@@ -1,6 +1,14 @@
 
 ![tw-banner](https://github.com/user-attachments/assets/9f6b0ac1-f8c3-4542-a2ff-3f10995f8637)
 
+## link for etherscan
+
+ [here](https://sepolia.lineascan.build/address/0x6F330931f659352A701a3827AfD2b1ADdcc70EfF)
+
+### contract address :- 0x6F330931f659352A701a3827AfD2b1ADdcc70EfF
+
+### blockchain network :- Linea Testnet
+
 
 ## Installation
 
