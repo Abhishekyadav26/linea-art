@@ -1,9 +1,6 @@
 
-![tw-banner](https://github.com/thirdweb-example/next-starter/assets/57885104/20c8ce3b-4e55-4f10-ae03-2fe4743a5ee8)
+![tw-banner](https://github.com/user-attachments/assets/9f6b0ac1-f8c3-4542-a2ff-3f10995f8637)
 
-# thirdweb-next-starter
-
-Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
 
 ## Installation
 
@@ -46,13 +43,6 @@ Preview the production build
 ```bash
 yarn start
 ```
-
-## Resources
-
-- [Documentation](https://portal.thirdweb.com/typescript/v5)
-- [Templates](https://thirdweb.com/templates)
-- [YouTube](https://www.youtube.com/c/thirdweb)
-- [Blog](https://blog.thirdweb.com)
 
 ## Need help?
 
